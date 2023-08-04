@@ -31,7 +31,7 @@ Every mobile platform has its own development environment: BlackBerry (Java and 
 
 Read more: [Cross Mobile Development](https://siliconvalleyinsider.files.wordpress.com/2023/08/xmobiledevelopment.pdf)
 
-## [IP Security (IPSec)](https://siliconvalleyinsider.files.wordpress.com/2023/08/ipsec.pdf)
+## IP Security
 
 IDS is dead. Welcome IDP. IPSec is dead. Welcome SSL. Well, history repeats itself. IDS and IDP are two different technologies for two different applications. The same is true for IPSec and SSL. IPSec provides data privacy at the network layer. SSL provides data privacy at the application layer. There will always be the need for an enterprise network to have IPSec and SSL to co-exist like there is for IDS and IDP.
 
