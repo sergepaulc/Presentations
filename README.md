@@ -1,6 +1,6 @@
 # Presentations
 
-Following are a few presentations. You can download them from the “Latest Thinking” section from my blog: https://asiliconvalleyinsider.com/latest-thinking/
+Following are a few presentations. You can download them from the “Latest Thinking” section from my blog: https://asiliconvalleyinsider.com/latest-thinking/ or from the links below.
 
 ## Machine Learning for Enterprise Finance
 Machine learning models have many applications in finance to both improve the bottom and top line of an enterprise. Models can streamline workflows, provide insights, help with decision-making, and increase customer engagement. Multiple models can be implemented together for an end-to-end workflow such as a complete solution to automate accounts payable from data extraction, accounts coding, anomaly detection, to bank reconciliation. More complex models can also be investigated such as recommender systems to provide personalized experiences, reinforcement learning for learning user feedback, and graph neural networks for demand forecasting.
