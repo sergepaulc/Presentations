@@ -2,6 +2,11 @@
 
 Following are a few presentations. You can download them from the “Latest Thinking” section of my blog: https://asiliconvalleyinsider.com/latest-thinking/ or from the links below.
 
+## Generative Voioce and Voice Cloning
+While we hear a lot about generating text and generating images, we do not as often hear applications and technologies about generating voice. Nevertheless, from time to time, we hear some new models for generating music. So is there a market for generative voice and in particular voice cloning? What could be the modeling technologies and features of a voice cloning product? What could be the go-to market for such a product? When there is a lot of hype and confusion in a market, such as is the case today for generative AI, developing and launching a new product in that market is not so easy. Having said that here are a few answers to those three questions:
+
+Read More: [Generative Voice and Voice Cloning](https://siliconvalleyinsider.files.wordpress.com/2023/08/generative_voice__voice_cloning.pdf)
+
 ## Machine Learning for Enterprise Finance
 Machine learning models have many applications in finance to both improve the bottom and top line of an enterprise. Models can streamline workflows, provide insights, help with decision-making, and increase customer engagement. Multiple models can be implemented together for an end-to-end workflow such as a complete solution to automate accounts payable from data extraction, accounts coding, anomaly detection, to bank reconciliation. More complex models can also be investigated such as recommender systems to provide personalized experiences, reinforcement learning for learning user feedback, and graph neural networks for demand forecasting.
 
